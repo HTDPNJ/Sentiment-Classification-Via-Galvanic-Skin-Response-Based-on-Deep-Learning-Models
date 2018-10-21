@@ -1,6 +1,6 @@
 # Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models 
 
-#Table of Contents  
+# Table of Contents  
 
 - [Introduction](#intro1)
 - [MDSTC](#mdstc2)
@@ -16,8 +16,11 @@ We collected a a multimodal dataset for sentiment classification, the dataset is
 <a name="mdstc2"></a>
 ## MDSTC ##
 In this section, we will show the detail of MDSTC.
+
+This image shows the facial expressions of volunteers watching six types of inspired videos.
 ![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/git.png)
 
+This image shows the Galvanic Skin Response and Pulse of volunteers watching six types of inspired videos.
 ![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/xml.png)
 
 <a name="PROCESS3"></a>
