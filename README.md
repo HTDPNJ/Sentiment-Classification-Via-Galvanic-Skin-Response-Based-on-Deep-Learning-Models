@@ -33,4 +33,8 @@ If a small amount of data is missing, we fill it with adjacent data. If a large 
 ## Denoising and Data standardization ##
 We use the Butterworth filter to denoise the signal, enhance the
 useful information, and recover the information degradation
-caused by the interference..
+caused by the interference.
+
+This image shows the Pulse of volunteer.
+
+![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/maibo.png)
