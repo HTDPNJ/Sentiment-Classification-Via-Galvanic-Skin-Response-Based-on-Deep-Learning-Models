@@ -16,6 +16,7 @@ We collected a a multimodal dataset for sentiment classification, the dataset is
 <a name="mdstc2"></a>
 ## MDSTC ##
 In this section, we will show the detail of MDSTC.
+![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/tree/master/MDSTC/Facial%20Expression/jianghao_Male_18_170_70_3613_1_3139413848_Set#1_Film_10s.mp4&blank.xml)
 
 <a name="PROCESS3"></a>
 ## Preprocessed ##
