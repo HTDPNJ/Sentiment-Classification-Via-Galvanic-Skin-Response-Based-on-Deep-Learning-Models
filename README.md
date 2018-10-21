@@ -16,12 +16,11 @@ We collected a a multimodal dataset for sentiment classification, the dataset is
 <a name="mdstc2"></a>
 ## MDSTC ##
 In this section, we will show the detail of MDSTC.
-
-This image shows the facial expressions of volunteers watching six types of inspired videos. In the XML file, "Person_info" record the personal information of volunteer, "Film_name" denotes the name of stimulation clips, "PIDIAN" recorded the Galvanic Skin Response, "MAIBO" recorded the pulse.
+This image shows the Galvanic Skin Response and Pulse of volunteers watching six types of inspired videos.
 
 ![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/git.png)
 
-This image shows the Galvanic Skin Response and Pulse of volunteers watching six types of inspired videos.
+This image shows the facial expressions of volunteers watching six types of inspired videos. In the XML file, "Person_info" record the personal information of volunteer, "Film_name" denotes the name of stimulation clips, "PIDIAN" recorded the Galvanic Skin Response, "MAIBO" recorded the pulse.
 
 ![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/xml.png)
 
