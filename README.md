@@ -39,6 +39,6 @@ This image shows the Pulse of volunteer.
 This image shows the raw GSR and GSR after denoising and data standardizationof volunteer.
 ![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/data_denoise.png)
 
-Here, you can get more data, link：https://pan.baidu.com/s/1JZCpRxmHl_zeR58AOUrJKg code：pbkr
+Here, you can get more data, link：https://pan.baidu.com/s/1JZCpRxmHl_zeR58AOUrJKg code：pbkr   
 If you need more data, please connect us.
 
