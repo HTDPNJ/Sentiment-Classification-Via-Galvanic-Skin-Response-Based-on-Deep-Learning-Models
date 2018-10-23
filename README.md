@@ -46,6 +46,6 @@ If you need more data, please connect us.
 ## Contact ##
 [Xiao Sun] E-mail address: (sunx@hfut.edu.cn)       Emotional Computing and Advanced
 Intelligent Machine Lab, School of Computer and Information, Hefei University
-of Technology, Hefei, Anhui, China.
+of Technology, Hefei, Anhui, China.    
 [Tao Hong] E-mail address: (TOliverQueen1@163.com)      
 
