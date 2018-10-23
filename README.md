@@ -40,4 +40,5 @@ This image shows the raw GSR and GSR after denoising and data standardizationof 
 ![image](https://github.com/HTDPNJ/Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models/blob/master/Pic/data_denoise.png)
 Here, you can get more data, link：https://pan.baidu.com/s/1JZCpRxmHl_zeR58AOUrJKg code：pbkr   
 If you need more data, please connect us.
+E-mail address: sunx@hfut.edu.cn (X. Sun).
 
